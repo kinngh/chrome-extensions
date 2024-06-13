@@ -1,0 +1,19 @@
+{
+  "name": "chrome-extensions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Harshdeep Singh Hura",
+    "url": "https://harshdeephura.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kinngh/chrome-extensions.git"
+  },
+  "scripts": {
+    "pretty": "prettier --write ./"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
+}
